@@ -16,5 +16,4 @@ x-s、x-s-common、xsec_token
 
 联系飞机：https://t.me/xhs996
 
-![image-20241115155520540](C:\Users\Etan96\AppData\Roaming\Typora\typora-user-images\image-20241115155520540.png)
-
+![tg](https://github.com/xhs996/xhs_spider/blob/main/demo.py/tg.png)
