@@ -16,4 +16,4 @@ x-s、x-s-common、xsec_token
 
 联系飞机：https://t.me/xhs996
 
-![tg](https://github.com/xhs996/xhs_spider/blob/main/demo.py/tg.png)
+![tg](https://github.com/xhs996/xhs_spider/blob/main/tg.png)
