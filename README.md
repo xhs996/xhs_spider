@@ -1,4 +1,6 @@
 # xhs_spider
+## 小红书App Token、小红书Web cookie、小红书账号
+**小红书token批发，适用于App数据采集。**
 
 小红书爬虫，小红书采集，小红书数据，小红书账号，小红书逆向，小红书web，小红书app
 
@@ -11,8 +13,7 @@
 大量新号、满周号、满月号
 
 x-s、x-s-common、xsec_token
-
-可代发笔记，无限@，笔记违禁词不屏蔽，**独家技术。**
+shield
 
 联系飞机：https://t.me/xhs996
 
