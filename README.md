@@ -1,7 +1,9 @@
-# 小红书账号
+# 小红书账号批发
 
 ## 小红书App Token、小红书Web Cookie、小红书账号
 小红书token批发、ck批发，适用于数据采集
+
+xsec_token生成
 
 小红书爬虫，小红书采集，小红书数据，小红书账号，小红书逆向，小红书web，小红书app
 
@@ -25,4 +27,4 @@ x-legacy-smid、x-legacy-did、x-legacy-fid、x-legacy-sid、x-mini-gid、x-mini
 
 
 
-2024年12月18日更新
+2024年12月19日更新
