@@ -23,7 +23,7 @@ x-legacy-smid、x-legacy-did、x-legacy-fid、x-legacy-sid、x-mini-gid、x-mini
 
 联系飞机：https://t.me/xhs996
 
-![tg](https://github.com/xhs996/xhs_spider/blob/main/tg.png)
+![tg](https://github.com/xhs996/xhs_spider/blob/main/tg.jpg)
 
 
 
