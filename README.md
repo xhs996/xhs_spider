@@ -35,7 +35,7 @@ Web x-s、x-s-common 算法
 
 # 联系方式
 
-联系飞机：https://t.me/xhs996
+点击联系飞机👉：https://t.me/xhs996
 ![tg](https://github.com/xhs996/xhs_spider/blob/main/tg.jpg)
 
 **引流：** 小红书爬虫，小红书采集，小红书数据，小红书账号，小红书逆向，小红书web，小红书app
