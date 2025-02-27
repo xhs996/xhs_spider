@@ -24,7 +24,8 @@
 | 评论列表        | app    |
 | 子评论列表      | app    |
 | 标签作品列表    | app    |
-| 搜索            | web    |
+| app搜索            | app    |
+| web搜索            | web    |
 | 作品列表        | web    |
 | 用户详情        | web    |
 | xsec_token 生成 |        |
@@ -35,7 +36,7 @@ App Shield 算法
 Web x-s、x-s-common 算法
 
 # 联系方式
-
+微信：geekdogx（回复不及时、随时可能失联、建议通过Telegram飞机联系）
 点击联系飞机👉：https://t.me/xhs996
 ![tg](https://github.com/xhs996/xhs_spider/blob/main/tg.jpg)
 
@@ -45,4 +46,4 @@ Web x-s、x-s-common 算法
 
 批量发笔记，批量点赞，批量关注，批量评论，x-legacy-smid、x-legacy-did、x-legacy-fid、x-legacy-sid、x-mini-gid、x-mini-sig、x-mini-mua、xy-common-params、xy-platform-info、main_hmac
 
-2025年02月26日更新
+2025年02月27日更新
