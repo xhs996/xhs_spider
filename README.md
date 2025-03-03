@@ -1,8 +1,6 @@
 # 小红书数据采集
 
 > 独家一手资源，没有中间商赚差价。
-> 
-> 可提供发票，技术服务、信息技术服务等均可
 
 ## 小红书账号
 全参token批发、全参cookies批发，适用于数据采集
@@ -49,4 +47,4 @@ Web x-s、x-s-common 算法
 
 批量发笔记，批量点赞，批量关注，批量评论，x-legacy-smid、x-legacy-did、x-legacy-fid、x-legacy-sid、x-mini-gid、x-mini-sig、x-mini-mua、xy-common-params、xy-platform-info、main_hmac
 
-2025年02月28日更新
+2025年03月03日更新
