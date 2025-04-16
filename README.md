@@ -24,8 +24,8 @@
 | 标签作品列表    | app    |
 | app搜索            | app    |
 | web搜索            | web    |
-| 作品列表        | web    |
-| 用户详情        | web    |
+| 作品列表        | app    |
+| 用户详情        | app    |
 | xsec_token 生成 |        |
 
 
