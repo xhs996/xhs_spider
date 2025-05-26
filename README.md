@@ -34,9 +34,6 @@ App Shield 算法
 Web x-s、x-s-common 算法
 
 # 联系方式
-没预算的别来，需求都搞不清楚的别来，别浪费时间。白嫖狗 退！退！退！
-
-微信：geekdogx（回复不及时、随时可能失联、建议通过Telegram飞机联系）
 
 点击联系飞机👉：https://t.me/xhs996
 ![tg](https://github.com/xhs996/xhs_spider/blob/main/tg.jpg)
@@ -47,4 +44,4 @@ Web x-s、x-s-common 算法
 
 批量发笔记，批量点赞，批量关注，批量评论，x-legacy-smid、x-legacy-did、x-legacy-fid、x-legacy-sid、x-mini-gid、x-mini-sig、x-mini-mua、xy-common-params、xy-platform-info、main_hmac
 
-2025年05月25日更新
+2025年05月26日更新
