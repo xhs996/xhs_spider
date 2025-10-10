@@ -2,9 +2,6 @@
 
 > 独家一手资源，没有中间商赚差价。
 
-## 小红书账号
-全参token批发、全参cookies批发，适用于数据采集
-
 ## 小红数据代采
 **一手资源，全网最稳定代采接口，市面上很多代采服务商都是二次封装我们的服务。**
 
@@ -23,7 +20,6 @@
 | 子评论列表      | app    |
 | 标签作品列表    | app    |
 | app搜索            | app    |
-| web搜索            | web    |
 | 作品列表        | app    |
 | 用户详情        | app    |
 | xsec_token 生成 |        |
@@ -34,7 +30,7 @@ App Shield 算法
 Web x-s、x-s-common 算法
 
 # 联系方式
-
+微信：geekdogx
 点击联系飞机👉：https://t.me/xhs996
 ![tg](https://github.com/xhs996/xhs_spider/blob/main/tg.jpg)
 
@@ -44,4 +40,4 @@ Web x-s、x-s-common 算法
 
 批量发笔记，批量点赞，批量关注，批量评论，x-legacy-smid、x-legacy-did、x-legacy-fid、x-legacy-sid、x-mini-gid、x-mini-sig、x-mini-mua、xy-common-params、xy-platform-info、main_hmac
 
-2025年10月09日更新
+2025年10月10日更新
