@@ -25,9 +25,6 @@
 | xsec_token 生成 |        |
 
 
-## 小红书算法
-App Shield x-mini-mua x-mini-sig x-mini-gid x-mini-s1 算法
-Web x-s、x-s-common 算法
 
 # 联系方式（不是做慈善，有需求有预算的来，白嫖勿扰）
 微信：geekdogx
@@ -39,6 +36,7 @@ Web x-s、x-s-common 算法
 
 小红书主页，小红书笔记，小红书作者页，小红书搜索，小红书发送笔记，小红书关注，小红书点赞，小红书评论，小红书作品。
 
-批量发笔记，批量点赞，批量关注，批量评论，x-legacy-smid、x-legacy-did、x-legacy-fid、x-legacy-sid、x-mini-gid、x-mini-sig、x-mini-mua、xy-common-params、xy-platform-info、main_hmac
+批量发笔记，批量点赞，批量关注，批量评论，x-legacy-smid、x-legacy-did、x-legacy-fid、x-legacy-sid、x-mini-gid、x-mini-sig、x-mini-mua、xy-common-params、xy-platform-info、main_hmac、App Shield x-mini-mua x-mini-sig x-mini-gid x-mini-s1 算法
+Web x-s、x-s-common 算法
 
 2025年10月16日更新
