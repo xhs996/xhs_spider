@@ -29,7 +29,7 @@
 App Shield x-mini-mua x-mini-sig x-mini-gid x-mini-s1 算法
 Web x-s、x-s-common 算法
 
-# 联系方式
+# 联系方式（不是做慈善，有需求有预算的来，白嫖勿扰）
 微信：geekdogx
 
 点击联系飞机👉：https://t.me/xhs996
