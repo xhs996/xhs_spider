@@ -27,7 +27,6 @@
 
 
 # 联系方式（不是做慈善，有需求有预算的来，白嫖勿扰）
-微信：geekdogx
 
 点击联系飞机👉：https://t.me/xhs996
 ![tg](https://github.com/xhs996/xhs_spider/blob/main/tg.jpg)
@@ -39,4 +38,4 @@
 批量发笔记，批量点赞，批量关注，批量评论，x-legacy-smid、x-legacy-did、x-legacy-fid、x-legacy-sid、x-mini-gid、x-mini-sig、x-mini-mua、xy-common-params、xy-platform-info、main_hmac、App Shield x-mini-mua x-mini-sig x-mini-gid x-mini-s1 算法
 Web x-s、x-s-common 算法
 
-2025年10月22日更新
+2025年10月23日更新
