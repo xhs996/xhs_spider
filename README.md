@@ -28,6 +28,10 @@
 
 # 联系方式（不是做慈善，有需求有预算的来，白嫖勿扰）
 
+没有微信，只能通过Telegram联系。
+
+不会用U支付、不会用Telegram的就别来问了。
+
 点击联系飞机👉：https://t.me/xhs996
 ![tg](https://github.com/xhs996/xhs_spider/blob/main/tg.jpg)
 
