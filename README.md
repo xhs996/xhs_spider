@@ -28,9 +28,9 @@
 
 # 联系方式（不是做慈善，有需求有预算的来，白嫖勿扰）
 
-点击联系飞机👉：https://t.me/xhs996
+优先点击联系飞机👉：https://t.me/xhs996
 
-微信：geekdogx
+微信可能加不上：geekdogx
 
 ![tg](https://github.com/xhs996/xhs_spider/blob/main/tg.jpg)
 
