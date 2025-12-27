@@ -41,4 +41,4 @@
 批量发笔记，批量点赞，批量关注，批量评论，x-legacy-smid、x-legacy-did、x-legacy-fid、x-legacy-sid、x-mini-gid、x-mini-sig、x-mini-mua、xy-common-params、xy-platform-info、main_hmac、App Shield x-mini-mua x-mini-sig x-mini-gid x-mini-s1 算法
 Web x-s、x-s-common 算法
 
-2025年12月26日更新.
+2025年12月27日更新.
