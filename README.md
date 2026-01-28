@@ -5,8 +5,6 @@
 ## 小红数据采集API
 **一手资源，全网最稳定代采接口，市面上很多代采服务商都是二次封装我们的服务。**
 
-使用国内免实名服务器，延迟超低 且保障双方匿名，避免被关联。
-
 实时接口，无需考虑**账号、风控、加密**问题，提供最简单方式调用
 
 小红书App端接口、Web端接口，更多其他接口也可以联系我们开发。
@@ -22,11 +20,13 @@
 | app搜索            | app    |
 | 作品列表        | app    |
 | 用户详情        | app    |
-| xsec_token 生成 |        |
+| 电商相关        | ↓↓↓    |
+| 商品详情        | app    |
+| 搜索商品        | app    |
 
 
 
-# 联系方式（不是做慈善，有需求有预算的来，白嫖勿扰）
+# 联系方式（有需求有预算的来，白嫖勿扰）
 
 优先点击联系飞机👉：https://t.me/xhs996
 
@@ -41,4 +41,4 @@
 批量发笔记，批量点赞，批量关注，批量评论，x-legacy-smid、x-legacy-did、x-legacy-fid、x-legacy-sid、x-mini-gid、x-mini-sig、x-mini-mua、xy-common-params、xy-platform-info、main_hmac、App Shield x-mini-mua x-mini-sig x-mini-gid x-mini-s1 算法
 Web x-s、x-s-common 算法
 
-2026年1月27日更新.
+2026年1月28日更新.
