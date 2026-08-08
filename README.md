@@ -27,7 +27,7 @@
 
 优先点击联系飞机👉：https://t.me/xhs996
 
-微信可能加不上：geekdogx
+微信里煞笔小白太多，不接受微信沟通。有需要的联系TG
 
 ![tg](https://github.com/xhs996/xhs_spider/blob/main/tg.jpg)
 
