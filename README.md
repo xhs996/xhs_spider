@@ -7,7 +7,7 @@
 
 实时接口，无需考虑**账号、风控、加密**问题，提供最简单方式调用
 
-小红书App端接口、Web端接口，更多其他接口也可以联系我们开发。
+小红书App端接口，更多其他接口也可以联系我们开发。
 
 详细接口文档联系我们获取
 
@@ -16,13 +16,10 @@
 | 笔记详情        | app    |
 | 评论列表        | app    |
 | 子评论列表      | app    |
-| 标签作品列表    | app    |
 | app搜索            | app    |
 | 作品列表        | app    |
 | 用户详情        | app    |
-| 电商相关        | ↓↓↓    |
-| 商品详情        | app    |
-| 搜索商品        | app    |
+| 电商相关        | app    |
 
 
 
@@ -41,4 +38,4 @@
 批量发笔记，批量点赞，批量关注，批量评论，x-legacy-smid、x-legacy-did、x-legacy-fid、x-legacy-sid、x-mini-gid、x-mini-sig、x-mini-mua、xy-common-params、xy-platform-info、main_hmac、App Shield x-mini-mua x-mini-sig x-mini-gid x-mini-s1 算法
 Web x-s、x-s-common 算法
 
-2026年08月8日更新
+2026年08月8日更新。
